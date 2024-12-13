@@ -29,7 +29,8 @@
 
    ![NodeJS](https://badgen.net/badge/NJS/NodeJS/green?icon=nodejs)
    ![PostgreSQL](https://badgen.net/badge/SQL/PostgreSQL/blue?icon=sql)
-   
+  ![Express](https://badgen.net/badge/Ex/Express/green?icon=express)
+
 <br>
 
 - **Cloud Hosting**:
