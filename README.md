@@ -25,6 +25,7 @@
    ![JavaScript](https://badgen.net/badge/JS/JavaScript/yellow?icon=js)
 
 <br>
+
 - **Back-End Development**:
 
    ![NodeJS](https://badgen.net/badge/NJS/NodeJS/green?icon=nodejs)
@@ -32,7 +33,8 @@
    
 <br>
 - **Cloud Hosting**:
-![vercel](https://badgen.net/badge/V/Vercel/purple?icon=vercel)
+
+  ![vercel](https://badgen.net/badge/V/Vercel/purple?icon=vercel)
 
 <br>
 
