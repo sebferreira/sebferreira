@@ -20,22 +20,20 @@
     
 - **Front-End Development**:
 
-   ![HTML5](https://badgen.net/#badge/HTML/HTML/orange?icon=HTML)
-   ![CSS3](https://badgen.net/#badge/CSS/CSS/blue?icon=css)
-   ![JavaScript](https://badgen.net/#badge/JS/JavaScript/yellow?icon=js)
+   ![HTML5](https://badgen.net/badge/HTML/HTML/orange?icon=HTML)
+   ![CSS3](https://badgen.net/badge/CSS/CSS/blue?icon=css)
+   ![JavaScript](https://badgen.net/badge/JS/JavaScript/yellow?icon=js)
 
 <br>
 - **Back-End Development**:
 
    ![NodeJS](https://badgen.net/badge/NJS/NodeJS/green?icon=nodejs)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![PostgreSQL](https://badgen.net/#badge/SQL/PostgreSQL/blue?icon=sql)
+   ![PostgreSQL](https://badgen.net/badge/SQL/PostgreSQL/blue?icon=sql)
    
 <br>
 - **Cloud Hosting**:
+![vercel](https://badgen.net/badge/V/Vercel/purple?icon=vercel)
 
-    ![vercel](https://badgen.net/badge/V/Vercel/purple?icon=vercel)
-    
 <br>
 
 - **Softwares and Tools**:
