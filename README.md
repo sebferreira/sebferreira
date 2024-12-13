@@ -9,6 +9,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
+- A interested for anything in the computer world
 
 <br><br>
 
