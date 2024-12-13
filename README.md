@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**sebferreira/sebferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hi , I'm Sebastián Galarza</b></h1>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
+##  **About me**
+
+
+- A passionate Self-taught Front-end developer
+- Currently learning Web Development by Self
+
+<br><br>
+
+
+<b> Skills</b>
+<br>
+
+<p align="center"> 
+    
+- **Front-End Development**:
+
+   ![HTML5](https://badgen.net/#badge/HTML/HTML/orange?icon=HTML)
+   ![CSS3](https://badgen.net/#badge/CSS/CSS/blue?icon=css)
+   ![JavaScript](https://badgen.net/#badge/JS/JavaScript/yellow?icon=js)
+
+<br>
+- **Back-End Development**:
+
+   ![NodeJS](https://badgen.net/badge/NJS/NodeJS/green?icon=nodejs)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![PostgreSQL](https://badgen.net/#badge/SQL/PostgreSQL/blue?icon=sql)
+   
+<br>
+- **Cloud Hosting**:
+
+    ![vercel](https://badgen.net/badge/V/Vercel/purple?icon=vercel)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://badgen.net/badge/G/GIt/orange?icon=git)
+    ![GitHub](https://badgen.net/badge/G/Github/grey?icon=github)
+    ![Visual Studio Code](https://badgen.net/badge/VSCode/VisualStudioCode/blue?icon=vscode)
+
+<br>
+
+
+</p>
+
